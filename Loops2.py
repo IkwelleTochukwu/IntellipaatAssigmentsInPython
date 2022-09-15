@@ -1,3 +1,6 @@
+# Create a list that is having only Integer values with even and odd numbers and with the 
+# use of the while loop,fetch the even numbers and print the numbers.
+
 def EvenNumbers(list):
     index = 0
     while index < len(list):
